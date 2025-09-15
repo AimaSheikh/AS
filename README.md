@@ -26,5 +26,3 @@ I'm a passionate front-end developer, fueled by a love for crafting beautiful, u
 > “Success motivates me, and every line of code is a step toward it.”
 
 Let’s connect and create beautiful digital experiences together!
-
-<!-- Optionally add social links below if you want --># AS
