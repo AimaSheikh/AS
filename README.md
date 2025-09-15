@@ -2,7 +2,7 @@
 
 🌼 **Front-End Developer | HTML | CSS | JavaScript**
 
-I'm a passionate front-end developer, fueled by a love for crafting beautiful, user-friendly web experiences. Success motivates me to keep learning and pushing boundaries in web development. I thrive on helping others and indulging in social work—making a positive impact in my community is close to my heart.
+I'm a passionate front-end developer, fueled by a love for crafting beautiful, user-friendly web experiences. Success motivates me to keep learning and pushing boundaries in web development. I thrive on helping others and indulging in social work-making a positive impact in my community is close to my heart.
 
 ## 🚀 Skills
 
@@ -17,7 +17,7 @@ I'm a passionate front-end developer, fueled by a love for crafting beautiful, u
 
 ## 🍜 Fun Facts About Me
 
-- I’m a foodie—always up for trying new cuisines!
+- I’m a foodie-always up for trying new cuisines!
 - Bookworm at heart: I love reading in my downtime
 - Big fan of K-dramas 🎬
 
